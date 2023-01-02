@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **javascripts,nodejs,react**
 
-- ❤️ my future wife **Novita eka tanti**
+- ❤️ my future wife <a href="">**Novita eka tanti**</a>
 
 - 📫 How to reach me **anggasultan2409@gmail.com**
 
