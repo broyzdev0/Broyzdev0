@@ -5,7 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=broyzdev0&label=Profile%20views&color=0e75b6&style=flat" alt="broyzdev0" /> </p>
 
+</p>
+
+- 🔭 I’m currently working on **PT.PROTONEMA**
+
+- 🌱 I’m currently learning **javascripts,nodejs,react**
+
+- ❤️ my future wife **Novita eka tanti**
+
 - 📫 How to reach me **anggasultan2409@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/angga-nur-gunawan-74b748246/](https://www.linkedin.com/in/angga-nur-gunawan-74b748246/)
+
+- ⚡ Fun fact **always sleping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
