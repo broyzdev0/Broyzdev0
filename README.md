@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/angga-nur-gunawan-74b748246/](https://www.linkedin.com/in/angga-nur-gunawan-74b748246/)
 
-- ⚡ Fun fact **always sleping**
+- ⚡ Fun fact **always sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
