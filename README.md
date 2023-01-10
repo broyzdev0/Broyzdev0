@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angga Nur Gunawan</h1>
 <h3 align="center">there is always a way in every difficulty</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fpdip-pdi-perjuangan-gif-18001778&psig=AOvVaw19WJhhJFaivWFKBZ70VWlz&ust=1673429026374000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKi6tYbXvPwCFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=broyzdev0&label=Profile%20views&color=0e75b6&style=flat" alt="broyzdev0" /> </p>
