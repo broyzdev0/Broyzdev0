@@ -2,6 +2,7 @@
 <h3 align="center">there is always a way in every difficulty</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2Ddg2MEsd7QAAAAC/pdip-pdi-perjuangan.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/LumRJytXorgAAAAC/pdi.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=broyzdev0&label=Profile%20views&color=0e75b6&style=flat" alt="broyzdev0" /> </p>
