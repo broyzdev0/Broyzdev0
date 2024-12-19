@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angga Nur Gunawan</h1>
+<h1 align="center">Hi 👋, I'm Broyz</h1>
 <h3 align="center">there is always a way in every difficulty</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/LumRJytXorgAAAAC/pdi.gif">
@@ -7,18 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=broyzdev0&label=Profile%20views&color=0e75b6&style=flat" alt="broyzdev0" /> </p>
 
 </p>
-
-- 🔭 I’m currently working on **PT.PROTONEMA**
-
-- 🌱 I’m currently learning **javascripts,nodejs,react**
-
-
-
-- 📫 How to reach me **anggasultan2409@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/angga-nur-gunawan-74b748246/](https://www.linkedin.com/in/angga-nur-gunawan-74b748246/)
-
-- ⚡ Fun fact **always sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
